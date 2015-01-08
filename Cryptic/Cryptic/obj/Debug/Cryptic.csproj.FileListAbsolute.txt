@@ -1,0 +1,9 @@
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\bin\Debug\Cryptic.exe.config
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\bin\Debug\Cryptic.exe
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\bin\Debug\Cryptic.pdb
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.csprojResolveAssemblyReference.cache
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.Properties.Resources.resources
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.csproj.GenerateResource.Cache
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.exe
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.pdb
+C:\Users\JaridKG\Documents\Visual Studio 2012\CPSC223n\Cryptic\Cryptic\obj\Debug\Cryptic.Form1.resources
